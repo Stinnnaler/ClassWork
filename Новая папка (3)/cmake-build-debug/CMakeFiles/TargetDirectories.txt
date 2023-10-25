@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/Новая папка (3)/cmake-build-debug/CMakeFiles/___3_.dir
+C:/Users/student/Desktop/Новая папка (3)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/Новая папка (3)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
